@@ -12,3 +12,6 @@ print(f"Hola mi nombres es {nombre}")
 #Impresión de Variable (Concatenación)
 nombre2 = "Benjamin"
 print("Hola mi nombre es " + nombre2)
+
+edad = 30
+print("Hola mi nombre es", name, "y tengo",edad)
